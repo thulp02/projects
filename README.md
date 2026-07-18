@@ -4,11 +4,10 @@ Data Analyst with 2 years of experience in Retail & FMCG Analytics.
 
 ## Skills
 
-- SQL
-- Python
-- Power BI
-- Excel
-- Machine Learning
+- Programming: Python (Pandas, NumPy, Scikit-learn)
+- Databases: SQL (Snowflake, PostgreSQL)
+- Visualization: Power BI, Tableau
+- Analytics: EDA, Data Cleaning, Statistical Analysis, Feature Engineering, Predictive Modeling, Classification, Segmentation/Clustering
 
 ## Featured Projects
 
